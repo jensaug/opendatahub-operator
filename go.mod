@@ -17,7 +17,7 @@ require (
 	github.com/ghodss/yaml v1.0.1-0.20190212211648-25d852aebe32
 	github.com/go-openapi/spec v0.19.5 // indirect
 	github.com/go-yaml/yaml v2.1.0+incompatible
-	github.com/gogo/protobuf v1.3.1
+	github.com/gogo/protobuf v1.3.2
 	github.com/golangplus/testing v0.0.0-20180327235837-af21d9c3145e
 	github.com/google/go-cmp v0.4.0
 	github.com/gregjones/httpcache v0.0.0-20190611155906-901d90724c79 // indirect
@@ -41,7 +41,7 @@ require (
 	github.com/tidwall/pretty v1.0.1 // indirect
 	go.uber.org/zap v1.12.0 // indirect
 	golang.org/x/crypto v0.0.0
-	golang.org/x/net v0.0.0-20200501053045-e0ff5e5a1de5
+	golang.org/x/net v0.0.0-20201021035429-f5854403a974
 	golang.org/x/oauth2 v0.0.0-20200107190931-bf48bf16ab8d
 	google.golang.org/api v0.25.0
 	google.golang.org/genproto v0.0.0-20200430143042-b979b6f78d84
