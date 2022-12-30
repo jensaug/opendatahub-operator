@@ -5,7 +5,7 @@ require (
 	github.com/Azure/go-autorest v13.3.3+incompatible // indirect
 	github.com/MakeNowJust/heredoc v1.0.0 // indirect
 	github.com/Sirupsen/logrus v0.0.0-00010101000000-000000000000 // indirect
-	github.com/aws/aws-sdk-go v1.27.1
+	github.com/aws/aws-sdk-go v1.33.0
 	github.com/cenkalti/backoff v2.2.1+incompatible
 	github.com/chai2010/gettext-go v0.0.0-20170215093142-bf70f2a70fb1 // indirect
 	github.com/deckarep/golang-set v1.7.1
@@ -30,7 +30,7 @@ require (
 	github.com/operator-framework/operator-lifecycle-manager v0.0.0-20191115003340-16619cd27fa5
 	github.com/operator-framework/operator-sdk v0.13.0
 	github.com/otiai10/copy v1.0.2
-	github.com/pkg/errors v0.8.1
+	github.com/pkg/errors v0.9.1
 	github.com/prometheus/common v0.7.0
 	github.com/sirupsen/logrus v1.6.0
 	github.com/spf13/cobra v1.0.0
